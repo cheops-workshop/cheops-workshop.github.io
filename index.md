@@ -51,6 +51,11 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 ## Agenda
 
 ## Organization
+- Michael Kuhn - Otto-von-Guericke University (OVGU), Germany
+- Kira Duwe - Otto-von-Guericke University (OVGU), Germany
+- Jean-Thomas Acquaviva - DDN, France
+- Konstantinos Chasapis - DDN, France
+
 
 ## Program Committee (to be completed)
 
