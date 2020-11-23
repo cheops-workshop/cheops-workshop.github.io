@@ -9,17 +9,15 @@ The main objective of this workshop is to present state-of-the-art research, inn
 - Paper Submission: February 17, 2021
 - Notification to Authors: March 22, 2021
 - Camera-Ready Deadline: March 31, 2021
-- Workshop Date: April 26, 2021, 9:00-14:00
+- Workshop Date: April 26, 2021
 
 ## Submission Guidelines
 
-In order to guarantee the quality of the submissions, we will form a globally distributed, diverse technical program committee to support the program committee. For that, we have invited established experts of the respective research fields. All submissions will be reviewed by the program committee. We will use EasyChair to manage the submissions. The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
+In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use [EasyChair to manage the submissions](https://easychair.org/conferences/?conf=cheops21). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
 
-Only original and novel work not currently under review in other venues will be considered for publication. Full papers should not exceed 8 pages (including title, text, figures, appendices and references). They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys. Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper.
+Only original and novel work not currently under review in other venues will be considered for publication. Full papers should not exceed 8 pages (including title, text, figures, appendices and references). They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2021.eurosys.org/cfp.html#cfp). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper.
 
-In order to attract submission and advertise the workshop a website is set-up for the workshop. CHEOPS is a full day workshop. It is structured as follows: keynote speaker (1 hour), 8 to 10  regular papers (25 minutes of presentation, 5 minutes of questions), lunch break (1 hour).
-
-We plan to offer the option for remote attendance, via video conferencing and a chat. Remote attendees can watch the workshop using a video conferencing solution such as Zoom or a video streaming solution such as YouTube. Questions can be asked via a chat system such as Slack. In case presenters cannot attend, presentations have to be given either via pre-recorded video or live stream. In both cases, the organizers will collect questions during the workshop and perform a live Q&A session with the presenter.
+Since the workshop will take place virtually, attendance will by done via video conferencing and a chat. Attendees can watch the workshop using a video conferencing solution such as Zoom or a video streaming solution such as YouTube. Questions can be asked via a chat system such as Slack. Presentations have to be given either via pre-recorded video or live stream. In both cases, the organizers will collect questions during the workshop and perform a live Q&A session with the presenter. More details will be published closer to the workshop.
 
 ## Topics of Interest
 
@@ -48,14 +46,23 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Related experiences from users: what worked, what didn't?
   - Feedback and empirical evaluation of storage systems
 
-## Agenda
+## Agenda (to be finalized)
+
+| Time        | Content                                                       |
+|------------:|:--------------------------------------------------------------|
+|   9:00-9:15 | Welcome                                                       |
+|  9:15-10:00 | Keynote by Suren Byna - Lawrence Berkeley National Lab (LBNL) |
+| 10:00-11:00 | TBD                                                           |
+| 11:00-12:00 | Break                                                         |
+| 12:00-14:00 | TBD                                                           |
 
 ## Organization
-- Michael Kuhn - Otto-von-Guericke University (OVGU), Germany
-- Kira Duwe - Otto-von-Guericke University (OVGU), Germany
+
+- [Michael Kuhn](https://parcio.ovgu.de/People/Michael+Kuhn.html) - Otto von Guericke University Magdeburg (OVGU), Germany
+- [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
 - Jean-Thomas Acquaviva - DDN, France
 - Konstantinos Chasapis - DDN, France
-
+- Jalil Boukhobza - University of Occidental Britanny (UBO), France
 
 ## Program Committee (to be completed)
 
@@ -68,4 +75,4 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Julian Kunkel - University of Reading, UK
 - George Markomanolis - CSC, Finland
 - Julien Bigot - CEA, France
-- Andreas Dilger - DDN
+- Andreas Dilger - DDN, France
