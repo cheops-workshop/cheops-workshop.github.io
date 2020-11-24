@@ -40,7 +40,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
-Keynote by Suren Byna (LBNL)
+Keynote by Suren Byna (LNBL) about about ExaHDF5 and object management
 
 ## Organization
 
