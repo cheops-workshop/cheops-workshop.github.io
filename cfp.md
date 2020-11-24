@@ -13,8 +13,7 @@ More information is available at: https://cheops-workshop.github.io
 
 ## Submission Guidelines
 
-Only original and novel work not currently under review in other venues will be considered for publication. 
-Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys available at: https://2021.eurosys.org/cfp.html#cfp
+Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys available at: https://2021.eurosys.org/cfp.html#cfp
 
 One author of each accepted paper is required to register for the workshop and present the paper. Since the workshop will take place virtually, attendance will by done via video conferencing and a chat. Presentations have to be given either via pre-recorded video or live stream with a live Q&A session. More details will be published closer to the workshop.
 
