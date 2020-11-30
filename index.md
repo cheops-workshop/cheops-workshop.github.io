@@ -30,7 +30,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Cloud, parallel and distributed file/storage systems
   - Network challenges, such as scalability, QoS and partitionability
 - Approaches for low-latency and heterogeneous storage systems
-  - Such as SCM and NVRAM combined with HDDs
+- Non-volatile memory technology and integration
 - Metadata management
 - Machine Learning and AI
   - Storage requirements of ML and AI applications
@@ -43,6 +43,8 @@ Submissions may be more hands-on than research papers and we therefore explicitl
   - Application I/O characterization
 - Storage systems modeling and analysis tools
 - Data reduction techniques such as compression and deduplication
+- Security approches for storage systems
+  - Encryption on different levels of the storage stack
 - UI/UX for storage systems
 - Related experiences from users: what worked, what didn't?
   - Feedback and empirical evaluation of storage systems
