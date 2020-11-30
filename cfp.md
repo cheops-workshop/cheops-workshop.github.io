@@ -48,7 +48,7 @@ Keynote by Suren Byna (LBNL) about ExaHDF5 and object management
 - Kira Duwe (OVGU)
 - Jean-Thomas Acquaviva (DDN)
 - Konstantinos Chasapis (DDN)
-- Jalil Boukhobza (UBO)
+- Jalil Boukhobza (ENSTA)
 
 ## Program Committee (to be completed)
 

@@ -63,7 +63,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
 - Jean-Thomas Acquaviva - DDN, France
 - Konstantinos Chasapis - DDN, France
-- Jalil Boukhobza - University of Occidental Britanny (UBO), France
+- Jalil Boukhobza - ENSTA Bretagne, France
 
 ## Program Committee (to be completed)
 
