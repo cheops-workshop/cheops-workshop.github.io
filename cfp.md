@@ -36,7 +36,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Domain-specific data management solutions
 - Storage systems modeling and analysis tools
 - Data reduction techniques such as compression and deduplication
-- Security approches for storage systems
+- Security approaches for storage systems
 - UI/UX for storage systems
 - Related experiences from users: what worked, what didn't?
 

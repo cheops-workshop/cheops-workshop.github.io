@@ -43,7 +43,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
   - Application I/O characterization
 - Storage systems modeling and analysis tools
 - Data reduction techniques such as compression and deduplication
-- Security approches for storage systems
+- Security approaches for storage systems
   - Encryption on different levels of the storage stack
 - UI/UX for storage systems
 - Related experiences from users: what worked, what didn't?
