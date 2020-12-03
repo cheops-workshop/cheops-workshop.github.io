@@ -6,8 +6,8 @@ More information is available at: https://cheops-workshop.github.io
 
 ## Important Dates
 
-- Abstract Submission: February 10, 2021
-- Paper Submission: February 17, 2021
+- Abstract Submission: February 10, 2021 (Anywhere on Earth)
+- Paper Submission: February 17, 2021 (Anywhere on Earth)
 - Notification to Authors: March 22, 2021
 - Camera-Ready Deadline: March 31, 2021
 - Workshop Date: April 26, 2021
