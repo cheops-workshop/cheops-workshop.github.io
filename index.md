@@ -16,7 +16,7 @@ The main objective of this workshop is to present state-of-the-art research, inn
 
 In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use [EasyChair to manage the submissions](https://easychair.org/conferences/?conf=cheops21). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
 
-Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2021.eurosys.org/cfp.html#cfp). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper.
+Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2021.eurosys.org/cfp.html#cfp). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
 Since the workshop will take place virtually, attendance will by done via video conferencing and a chat. Attendees can watch the workshop using a video conferencing solution such as Zoom or a video streaming solution such as YouTube. Questions can be asked via a chat system such as Slack. Presentations have to be given either via pre-recorded video or live stream. In both cases, the organizers will collect questions during the workshop and perform a live Q&A session with the presenter. More details will be published closer to the workshop.
 
@@ -54,7 +54,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
 |   9:00-9:15 | Welcome                                                       |
-|  9:15-10:00 | Keynote by Suren Byna - Lawrence Berkeley National Lab (LBNL) |
+|  9:15-10:00 | Keynote by Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers (title tbc) |
 | 10:00-11:00 | TBD                                                           |
 | 11:00-12:00 | Break                                                         |
 | 12:00-14:00 | TBD                                                           |

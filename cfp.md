@@ -2,7 +2,7 @@
 
 The workshop is aimed at researchers, developers of scientific applications, engineers and everyone interested in the evolution of storage systems. As the developments of computing power, storage and network technologies continue to diverge, the bandwidth performance gap between them widens. This trend, combined with the ever growing data volumes and data-driven computing such as machine learning, results in I/O and storage limitations, impacting the scalability and efficiency of current and future computing systems. Some of these challenges are quantitative, such as scale to match Exascale system requirements, or latency reduction of the software stack  to efficiently integrate new generations of hardware like storage class memory (SCM). Some other issues are more subtle and arise with the increased complexity of the storage solutions, like new smarter and more potent data management tools, monitoring systems or interoperability between I/O components or data formats.
 
-More information is available at: https://cheops-workshop.github.io
+More information is available at: <https://cheops-workshop.github.io>
 
 ## Important Dates
 
@@ -14,11 +14,11 @@ More information is available at: https://cheops-workshop.github.io
 
 ## Submission Guidelines
 
-Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys available at: https://2021.eurosys.org/cfp.html#cfp
+Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys available at: <https://2021.eurosys.org/cfp.html#cfp> Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
 One author of each accepted paper is required to register for the workshop and present the paper. Since the workshop will take place virtually, attendance will by done via video conferencing and a chat. Presentations have to be given either via pre-recorded video or live stream with a live Q&A session. More details will be published closer to the workshop.
 
-Papers have to be submitted to EasyChair at: https://easychair.org/conferences/?conf=cheops21
+Papers have to be submitted to EasyChair at: <https://easychair.org/conferences/?conf=cheops21>
 
 ## Topics of Interest
 
@@ -42,7 +42,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
-Keynote by Suren Byna (LBNL) about ExaHDF5 and object management
+- Keynote by Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers (title tbc)
 
 ## Organization
 
