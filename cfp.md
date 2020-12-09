@@ -56,6 +56,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 - Marco Aldinucci - University of Turin, Italy
 - Julien Bigot - French Alternative Energies and Atomic Energy Commission (CEA), France
+- Philippe Deniel - French Alternative Energies and Atomic Energy Commission (CEA), France
 - Andreas Dilger - Whamcloud, USA
 - Leonardo Bautista Gomez - Barcelona Supercomputing Center (BSC), Spain
 - Christos Kozanitis - Foundation for Research and Technology Hellas (FORTH), Greece
