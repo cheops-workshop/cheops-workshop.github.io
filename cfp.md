@@ -46,8 +46,8 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Organization
 
-- [Michael Kuhn](https://parcio.ovgu.de/People/Michael+Kuhn.html) - Otto von Guericke University Magdeburg (OVGU), Germany
-- [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
+- Michael Kuhn - Otto von Guericke University Magdeburg (OVGU), Germany
+- Kira Duwe - Otto von Guericke University Magdeburg (OVGU), Germany
 - Jean-Thomas Acquaviva - DDN, France
 - Konstantinos Chasapis - DDN, France
 - Jalil Boukhobza - National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
@@ -65,3 +65,5 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Sebastian Lührs - Jülich Supercomputing Centre (JSC), Germany
 - Jakob Lüttgau - German Climate Computing Center (DKRZ), Germany
 - George Markomanolis - IT Center for Science Ltd. (CSC), Finland
+- Ramon Nou - Barcelona Supercomputing Center (BSC), Spain
+- Anastasios Papagiannis - Facebook, UK
