@@ -42,25 +42,26 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
-- Keynote by Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers (title tbc)
+- Keynote by **Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc)
 
 ## Organization
 
-- Michael Kuhn (OVGU)
-- Kira Duwe (OVGU)
-- Jean-Thomas Acquaviva (DDN)
-- Konstantinos Chasapis (DDN)
-- Jalil Boukhobza (ENSTA)
+- [Michael Kuhn](https://parcio.ovgu.de/People/Michael+Kuhn.html) - Otto von Guericke University Magdeburg (OVGU), Germany
+- [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
+- Jean-Thomas Acquaviva - DDN, France
+- Konstantinos Chasapis - DDN, France
+- Jalil Boukhobza - National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
 
 ## Program Committee (to be completed)
 
-- Johann Lombardi (Intel)
-- Jakob Lüttgau (DKRZ)
-- Jay Lofstead (SNL)
-- Sebastian Lührs (JSC)
-- Leonardo Bautista Gomez (BSC)
-- Ramon Nou (BSC)
-- Julian Kunkel (UoR)
-- George Markomanolis (CSC)
-- Julien Bigot (CEA)
-- Andreas Dilger (DDN)
+- Marco Aldinucci - University of Turin, Italy
+- Julien Bigot - French Alternative Energies and Atomic Energy Commission (CEA), France
+- Andreas Dilger - Whamcloud, USA
+- Leonardo Bautista Gomez - Barcelona Supercomputing Center (BSC), Spain
+- Christos Kozanitis - Foundation for Research and Technology Hellas (FORTH), Greece
+- Julian Kunkel - University of Reading, UK
+- Jay Lofstead - Sandia National Laboratories (SNL), USA
+- Johann Lombardi - Intel, France
+- Sebastian Lührs - Jülich Supercomputing Centre (JSC), Germany
+- Jakob Lüttgau - German Climate Computing Center (DKRZ), Germany
+- George Markomanolis - IT Center for Science Ltd. (CSC), Finland
