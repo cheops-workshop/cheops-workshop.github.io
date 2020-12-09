@@ -54,7 +54,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
 |   9:00-9:15 | Welcome                                                       |
-|  9:15-10:00 | Keynote by Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers (title tbc) |
+|  9:15-10:00 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
 | 10:00-11:00 | TBD                                                           |
 | 11:00-12:00 | Break                                                         |
 | 12:00-14:00 | TBD                                                           |
@@ -65,17 +65,20 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
 - Jean-Thomas Acquaviva - DDN, France
 - Konstantinos Chasapis - DDN, France
-- Jalil Boukhobza - ENSTA Bretagne, France
+- Jalil Boukhobza - National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
 
 ## Program Committee (to be completed)
 
-- Johann Lombardi - Intel, France
-- Jakob Lüttgau - German Climate Computing Center (DKRZ), Germany
-- Jay Lofstead - Sandia National Laboratories (SNL), USA
-- Sebastian Lührs - Jülich Supercomputing Centre (JSC), Germany
+- Marco Aldinucci - University of Turin, Italy
+- Julien Bigot - French Alternative Energies and Atomic Energy Commission (CEA), France
+- Andreas Dilger - Whamcloud, USA
 - Leonardo Bautista Gomez - Barcelona Supercomputing Center (BSC), Spain
-- Ramon Nou - Barcelona Supercomputing Center (BSC), Spain
+- Christos Kozanitis - Foundation for Research and Technology Hellas (FORTH), Greece
 - Julian Kunkel - University of Reading, UK
-- George Markomanolis - CSC, Finland
-- Julien Bigot - CEA, France
-- Andreas Dilger - DDN, France
+- Jay Lofstead - Sandia National Laboratories (SNL), USA
+- Johann Lombardi - Intel, France
+- Sebastian Lührs - Jülich Supercomputing Centre (JSC), Germany
+- Jakob Lüttgau - German Climate Computing Center (DKRZ), Germany
+- George Markomanolis - IT Center for Science Ltd. (CSC), Finland
+- Ramon Nou - Barcelona Supercomputing Center (BSC), Spain
+- Anastasios Papagiannis - Facebook, UK
