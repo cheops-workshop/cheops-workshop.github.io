@@ -53,11 +53,11 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
-|   9:00-9:15 | Welcome                                                       |
-|  9:15-10:00 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
-| 10:00-11:00 | TBD                                                           |
-| 11:00-12:00 | Break                                                         |
-| 12:00-14:00 | TBD                                                           |
+|   9:00-9:05 | Welcome                                                       |
+|  9:05-09:50 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
+| 09:50-10:50 | TBD                                                           |
+| 10:50-11:20 | Break                                                         |
+| 11:20-13:00 | TBD                                                           |
 
 ## Organization
 
