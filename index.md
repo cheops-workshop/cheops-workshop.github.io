@@ -23,24 +23,24 @@ Since the workshop will take place virtually, attendance will by done via video 
 ### Rights Forms
 
 The corresponding author(s) will be contacted by the ACM to complete a copyright transfer form.
-Once completed, ACM will send out the information and LaTeX directives (DOI, ISBN, etc.) needed to complete the camera-ready version of your paper.
+Once completed, ACM will send out the information and LaTeX directives (DOI, ISBN etc.) needed to complete the camera-ready version of your paper.
 
 ### Camera-Ready Format
 
-You should use the acmart document class (<https://www.acm.org/publications/proceedings-template>, the same as for submission), as follows: `\documentclass[sigplan,10pt]{acmart}`
+You should use the `acmart` document class (<https://www.acm.org/publications/proceedings-template>, the same as for submission), as follows: `\documentclass[sigplan,10pt]{acmart}`
 
-As mentioned above, you will receive the instruction regarding some Latex directives (`\setcopyright`, `\acmConference`, `\acmDOI`, etc.) after completing the copyright form.
+As mentioned above, you will receive the instruction regarding some LaTeX directives (`\setcopyright`, `\acmConference`, `\acmDOI` etc.) after completing the copyright form.
 
 All accepted papers can use up to 2 additional pages for the camera-ready version, for a final limit of 10 (full papers) or 6 (short papers) pages, references not included.
 
-Note that Type 1 fonts (scalable) should be used, not Type 3 (bit-mapped), and that all fonts must be embedded.
+Note that Type 1 fonts (scalable) should be used, not Type 3 (bitmapped), and that all fonts must be embedded.
 Type and embedding of fonts can be checked with various tools including `pdffonts`.
 Page numbers should be suppressed.
 Make also sure that the PDF is searchable by testing the search function in a PDF reader.
 
 ### Uploading Final Versions
 
-You will be contacted by the ACM with upload instructions for the camera ready.
+You will be contacted by the ACM with upload instructions for the camera-ready version.
 As a reminder, the camera-ready deadline for all papers is April 2, 2021.
 
 ## Topics of Interest
