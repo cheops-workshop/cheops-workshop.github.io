@@ -31,7 +31,7 @@ You should use the acmart document class (<https://www.acm.org/publications/proc
 
 As mentioned above, you will receive the instruction regarding some Latex directives (`\setcopyright`, `\acmConference`, `\acmDOI`, etc.) after completing the copyright form.
 
-All accepted papers can use up to 2 additional pages for the camera-ready version, for a final limit of 10 (regular papers) or 6 (short papers) pages, references not included.
+All accepted papers can use up to 2 additional pages for the camera-ready version, for a final limit of 10 (full papers) or 6 (short papers) pages, references not included.
 
 Note that Type 1 fonts (scalable) should be used, not Type 3 (bit-mapped), and that all fonts must be embedded.
 Type and embedding of fonts can be checked with various tools including `pdffonts`.
