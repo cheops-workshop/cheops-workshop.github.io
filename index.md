@@ -74,6 +74,8 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
+Please note that the workshop is following British Summer Time, that is, UTC+1.
+
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
 |   9:00-9:05 | Welcome                                                       |
