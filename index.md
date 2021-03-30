@@ -78,15 +78,15 @@ Please note that the workshop is following British Summer Time, that is, UTC+1.
 
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
-|   9:00-9:05 | Welcome                                                       |
-|   9:05-9:50 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
-|  9:50-10:20 | Talk 1                                                        |
-|  9:50-10:50 | Talk 2                                                        |
-| 10:50-11:20 | Break                                                         |
-| 11:20-11:40 | Talk 3 (short)                                                |
-| 11:40-12:00 | Talk 4 (short)                                                |
-| 12:00-12:30 | Talk 5                                                        |
-| 12:30-13:00 | Talk 6                                                        |
+|   8:00-8:05 | Welcome                                                       |
+|   8:05-8:50 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
+|   8:50-9:20 | Talk 1                                                        |
+|   8:50-9:50 | Talk 2                                                        |
+|  9:50-10:20 | Break                                                         |
+| 10:20-10:40 | Talk 3 (short)                                                |
+| 10:40-11:00 | Talk 4 (short)                                                |
+| 11:00-11:30 | Talk 5                                                        |
+| 11:30-12:00 | Talk 6                                                        |
 
 ## Organization
 
