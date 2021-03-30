@@ -40,7 +40,7 @@ Make also sure that the PDF is searchable by testing the search function in a PD
 
 ### Uploading Final Versions
 
-You will be contacted by the ACM with upload instructions for the camera-ready version.
+The camera-ready version of your paper and its LaTeX sources have to be uploaded via [EasyChair](https://easychair.org/conferences/?conf=cheops21).
 As a reminder, the camera-ready deadline for all papers is April 2, 2021.
 
 ## Topics of Interest
