@@ -96,10 +96,8 @@ Please note that the workshop is following British Summer Time, that is, UTC+1.
 - Konstantinos Chasapis - DDN, France
 - Jalil Boukhobza - National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
 
-## Program Committee (to be completed)
+## Program Committee
 
-- Marco Aldinucci - University of Turin, Italy
-- Julien Bigot - French Alternative Energies and Atomic Energy Commission (CEA), France
 - Philippe Deniel - French Alternative Energies and Atomic Energy Commission (CEA), France
 - Andreas Dilger - Whamcloud, USA
 - Leonardo Bautista Gomez - Barcelona Supercomputing Center (BSC), Spain
