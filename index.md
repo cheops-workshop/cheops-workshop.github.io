@@ -98,6 +98,8 @@ Please note that the workshop is following British Summer Time, that is, UTC+1.
 
 ## Program Committee
 
+- Marco Aldinucci - University of Turin, Italy
+- Julien Bigot - French Alternative Energies and Atomic Energy Commission (CEA), France
 - Philippe Deniel - French Alternative Energies and Atomic Energy Commission (CEA), France
 - Andreas Dilger - Whamcloud, USA
 - Leonardo Bautista Gomez - Barcelona Supercomputing Center (BSC), Spain
