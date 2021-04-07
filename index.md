@@ -72,7 +72,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Related experiences from users: what worked, what didn't?
   - Feedback and empirical evaluation of storage systems
 
-## Agenda (to be finalized)
+## Agenda
 
 Please note that the workshop is following British Summer Time, that is, UTC+1.
 
@@ -80,13 +80,13 @@ Please note that the workshop is following British Summer Time, that is, UTC+1.
 |------------:|:--------------------------------------------------------------|
 |   8:00-8:05 | Welcome                                                       |
 |   8:05-8:50 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
-|   8:50-9:20 | Talk 1                                                        |
-|   8:50-9:50 | Talk 2                                                        |
+|   8:50-9:20 | **A Unified Storage Layer for Supporting Distributed Workflows in Kubernetes** -- Antony Chazapis (Foundation for Research and Technology - Hellas), Christian Pinto (IBM Research Europe), Yiannis Gkoufas (IBM Research Europe), Christos Kozanitis (Foundation for Research and Technology - Hellas), Angelos Bilas (Foundation for Research and Technology - Hellas) |
+|   8:50-9:50 | **Predicting file lifetimes for data placement in multi-tiered storage systems for HPC** -- Luis Thomas (ENSTA Bretagne / Lab-STICC), Sebastien Gougeaud (CEA), Stéphane Rubini (Univ. Brest / Lab-STICC), Philippe Deniel (CEA), Jalil Boukhobza (ENSTA Bretagne / Lab-STICC) |
 |  9:50-10:20 | Break                                                         |
-| 10:20-10:40 | Talk 3 (short)                                                |
-| 10:40-11:00 | Talk 4 (short)                                                |
-| 11:00-11:30 | Talk 5                                                        |
-| 11:30-12:00 | Talk 6                                                        |
+| 10:20-10:40 | **Using Ceph's BlueStore as Object Storage in HPC Storage Framework** -- Kira Duwe (Otto von Guericke University Magdeburg), Michael Kuhn (Otto von Guericke University Magdeburg) |
+| 10:40-11:00 | **Design for Computational Storage Simulation Platform** -- Peter Wilcox (University of California, Santa Cruz), Heiner Litz (University of California, Santa Cruz) |
+| 11:00-11:30 | **EZIOTracer: Unifying Kernel, User Space I/O Tracing for Data-Intensive Applications** -- Mohammed Islam Naas (University of Western Brittany), François Trahay (Telecom SudParis, Polytechnic Institute of Paris), Alexis Colin (Telecom SudParis, Polytechnic Institute of Paris), Pierre Olivier (The University of Manchester), Stéphane Rubini (The University of Manchester), Frank Singhoff (The University of Manchester), Jalil Boukhobza (ENSTA Bretagne / Lab-STICC) |
+| 11:30-12:00 | **Evaluation of Flash Storage Integration (SIONlib with IME)** -- Konstantinos Chasapis (DataDirect Networks Storage), Jean-Thomas Acquaviva (DataDirect Networks Storage), Sebastian Lührs (Jülich Supercomputing Centre) |
 
 ## Organization
 
