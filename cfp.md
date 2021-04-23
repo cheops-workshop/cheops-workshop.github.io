@@ -42,7 +42,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
-- Keynote by **Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc)
+- Keynote by **Suren Byna (LBNL): Parallel I/O at Exascale with HDF5 and Proactive Data Containers**
 
 ## Organization
 

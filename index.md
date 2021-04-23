@@ -79,7 +79,7 @@ Please note that the workshop is following British Summer Time, that is, UTC+1.
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
 |   8:00-8:05 | Welcome                                                       |
-|   8:05-8:50 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** (title tbc) |
+|   8:05-8:50 | Keynote by **Suren Byna (Lawrence Berkeley National Lab, USA): Parallel I/O at Exascale with HDF5 and Proactive Data Containers** |
 |   8:50-9:20 | **A Unified Storage Layer for Supporting Distributed Workflows in Kubernetes** -- Antony Chazapis (Foundation for Research and Technology - Hellas), Christian Pinto (IBM Research Europe), Yiannis Gkoufas (IBM Research Europe), Christos Kozanitis (Foundation for Research and Technology - Hellas), Angelos Bilas (Foundation for Research and Technology - Hellas) |
 |   9:20-9:50 | **Predicting file lifetimes for data placement in multi-tiered storage systems for HPC** -- Luis Thomas (ENSTA Bretagne / Lab-STICC), Sebastien Gougeaud (CEA), Stéphane Rubini (Univ. Brest / Lab-STICC), Philippe Deniel (CEA), Jalil Boukhobza (ENSTA Bretagne / Lab-STICC) |
 |  9:50-10:15 | Break                                                         |
