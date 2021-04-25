@@ -75,6 +75,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 ## Agenda
 
 Please note that the workshop is following British Summer Time, that is, UTC+1.
+The proceedings are available in the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3439839).
 
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
