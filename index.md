@@ -1,3 +1,7 @@
+---
+title: CHEOPS Workshop at EuroSys 2022
+---
+
 # Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS)
 
 The second workshop on “Challenges and Opportunities of Efficient and Performant Storage Systems” (CHEOPS) is aimed at researchers, developers of scientific applications, engineers and everyone interested in the evolution of storage systems. As the developments of computing power, storage and network technologies continue to diverge, the bandwidth performance gap between them widens. This trend, combined with the ever growing data volumes and data-driven computing such as machine learning, results in I/O and storage limitations, impacting the scalability and efficiency of current and future computing systems. Some of these challenges are quantitative, such as scale to match exascale system requirements, or latency reduction of the software stack  to efficiently integrate new generations of hardware like storage class memory (SCM). Some other issues are more subtle and arise with the increased complexity of the storage solutions, like new smarter and more potent data management tools, monitoring systems or interoperability between I/O components or data formats.
