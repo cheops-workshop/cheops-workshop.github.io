@@ -10,17 +10,17 @@ The main objective of this workshop is to present state-of-the-art research, inn
 
 ## Important Dates
 
-- Abstract Submission: One week before paper submission (Anywhere on Earth)
-- Paper Submission: Late January/early February, 2022 (Anywhere on Earth)
-- Notification to Authors: Late February, 2022
-- Camera-Ready Deadline: Early March, 2022
+- Abstract Submission: January 15, 2022 (Anywhere on Earth)
+- Paper Submission: January 22, 2022 (Anywhere on Earth)
+- Notification to Authors: March 5, 2022
+- Camera-Ready Deadline: March 19, 2022
 - Workshop Date: April 5, 2022
 
 ## Submission Guidelines
 
 In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use [EasyChair to manage the submissions](https://easychair.org/conferences/?conf=cheops22). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
 
-Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (8 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2022.eurosys.org/calls/call-for-papers/#submission_instructions). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
+Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (6 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2022.eurosys.org/calls/call-for-papers/#submission_instructions). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
 ## Topics of Interest
 
