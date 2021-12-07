@@ -20,7 +20,7 @@ More information is available at: <https://cheops-workshop.github.io>
 
 Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (6 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys. Accepted submissions will have to comply with the EuroSys proceedings format. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
-Papers have to be submitted to EasyChair at: <https://easychair.org/conferences/?conf=cheops21>
+Papers have to be submitted to HotCRP at: <https://cheops22.hotcrp.com/>
 One author of each accepted paper is required to register for the workshop and present the paper.
 
 ## Topics of Interest

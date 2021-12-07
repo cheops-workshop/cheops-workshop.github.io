@@ -18,7 +18,7 @@ The main objective of this workshop is to present state-of-the-art research, inn
 
 ## Submission Guidelines
 
-In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use [EasyChair to manage the submissions](https://easychair.org/conferences/?conf=cheops22). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
+In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use [HotCRP to manage the submissions](https://cheops22.hotcrp.com/). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
 
 Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (6 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2022.eurosys.org/calls/call-for-papers/#submission_instructions). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
@@ -50,7 +50,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Related experiences from users: what worked, what didn't?
   - Feedback and empirical evaluation of storage systems
 
-## Agenda
+## Agenda (to be finalized)
 
 TBD
 
