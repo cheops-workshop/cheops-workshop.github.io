@@ -43,7 +43,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
-TBD
+Keynote: Dr. Darrell D. E. Long is a Distinguished Professor of Engineering at the University of California, Santa Cruz. He holds the Kumar Malavalli Endowed Chair of Storage Systems Research and is Director, emeritus, of the Storage Systems Research Center and Director of the NSF I/UCRC Center for Storage Systems Research. He has authored highly cited research papers on web caching, distributed file systems, power-aware hard disk management in mobile computing, and low-bandwidth multicast techniques for video on demand, among other topics.
 
 ## Organization
 
@@ -55,4 +55,14 @@ TBD
 
 ## Program Committee (to be completed)
 
-TBC
+- Yuan-Hao Chang - Academia Sinica, Taiwan
+- Stefano Cozzini - Area Science Park, Italy
+- Philippe Deniel - French Alternative Energies and Atomic Energy Commission (CEA), France
+- Andreas Dilger - Whamcloud, USA
+- Anna Fuchs - Universität Hamburg, Germany
+- Shadi Ibrahim - INRIA, France
+- Jay Lofstead - Sandia National Laboratories (SNL), USA
+- Jakob Lüttgau - GCLab, USA
+- George Markomanolis - IT Center for Science Ltd. (CSC), Finland
+- Ramon Nou - Barcelona Supercomputing Center (BSC), Spain
+- Marcus Paradies - DLR, Germany
