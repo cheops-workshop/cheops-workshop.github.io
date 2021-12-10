@@ -64,6 +64,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Program Committee
 
+- Suren Byna - Lawrence Berkeley National Lab, USA
 - Yuan-Hao Chang - Academia Sinica, Taiwan
 - Stefano Cozzini - Area Science Park, Italy
 - Philippe Deniel - French Alternative Energies and Atomic Energy Commission (CEA), France

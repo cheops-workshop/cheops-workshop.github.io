@@ -55,6 +55,7 @@ Keynote: Dr. Darrell D. E. Long is a Distinguished Professor of Engineering at t
 
 ## Program Committee (to be completed)
 
+- Suren Byna - Lawrence Berkeley National Lab, USA
 - Yuan-Hao Chang - Academia Sinica, Taiwan
 - Stefano Cozzini - Area Science Park, Italy
 - Philippe Deniel - French Alternative Energies and Atomic Energy Commission (CEA), France
