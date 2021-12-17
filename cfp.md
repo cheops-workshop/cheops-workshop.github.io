@@ -62,8 +62,12 @@ Keynote: Dr. Darrell D. E. Long is a Distinguished Professor of Engineering at t
 - Andreas Dilger - Whamcloud, USA
 - Anna Fuchs - Universität Hamburg, Germany
 - Shadi Ibrahim - INRIA, France
+- Tanzima Islam - Texas State University, USA
+- Christos Kozanitis - Foundation for Research and Technology Hellas (FORTH), Greece
 - Jay Lofstead - Sandia National Laboratories (SNL), USA
+- Sebastian Lührs - Jülich Supercomputing Centre (JSC), Germany
 - Jakob Lüttgau - GCLab, USA
 - George Markomanolis - IT Center for Science Ltd. (CSC), Finland
 - Ramon Nou - Barcelona Supercomputing Center (BSC), Spain
 - Marcus Paradies - DLR, Germany
+- Marc-André Vef - Johannes Gutenberg University Mainz, Germany
