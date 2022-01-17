@@ -10,8 +10,8 @@ The main objective of this workshop is to present state-of-the-art research, inn
 
 ## Important Dates
 
-- Abstract Submission: January 15, 2022 (Anywhere on Earth)
-- Paper Submission: January 22, 2022 (Anywhere on Earth)
+- Abstract Submission: ~~January 15~~ February 7, 2022 (Anywhere on Earth)
+- Paper Submission: ~~January 22~~ February 7, 2022 (Anywhere on Earth)
 - Notification to Authors: March 5, 2022
 - Camera-Ready Deadline: March 13, 2022
 - Workshop Date: April 5, 2022
