@@ -81,5 +81,6 @@ Dr. Darrell D. E. Long is a Distinguished Professor of Engineering at the Univer
 - Jakob Lüttgau - GCLab, USA
 - George Markomanolis - IT Center for Science Ltd. (CSC), Finland
 - Ramon Nou - Barcelona Supercomputing Center (BSC), Spain
+- Anastasios Papagiannis - Isovalent, USA
 - Marcus Paradies - DLR, Germany
 - Marc-André Vef - Johannes Gutenberg University Mainz, Germany
