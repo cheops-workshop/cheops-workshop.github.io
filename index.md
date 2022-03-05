@@ -22,6 +22,29 @@ In order to guarantee the quality of the submissions, we have formed a globally 
 
 Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (6 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2022.eurosys.org/calls/call-for-papers/#submission_instructions). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
+### Rights Forms
+
+You will find a link to the ACM copyright form on your paper's [HotCRP page](https://cheops22.hotcrp.com/).
+Once completed, ACM will send out the information and LaTeX directives (DOI, ISBN etc.) needed to complete the camera-ready version of your paper.
+
+### Camera-Ready Format
+
+You should use the `acmart` document class (<https://www.acm.org/publications/proceedings-template>, the same as for submission), as follows: `\documentclass[sigplan,10pt]{acmart}`
+
+As mentioned above, you will receive the instruction regarding some LaTeX directives (`\setcopyright`, `\acmConference`, `\acmDOI` etc.) after completing the copyright form.
+
+All accepted papers can use up to 2 additional pages for the camera-ready version, for a final limit of 8 (full papers) or 6 (short papers) pages, references not included.
+
+Note that Type 1 fonts (scalable) should be used, not Type 3 (bitmapped), and that all fonts must be embedded.
+Type and embedding of fonts can be checked with various tools including `pdffonts`.
+Page numbers should be suppressed.
+Make also sure that the PDF is searchable by testing the search function in a PDF reader.
+
+### Uploading Final Versions
+
+The camera-ready version of your paper and its LaTeX sources have to be uploaded via [HotCRP](https://cheops22.hotcrp.com/).
+As a reminder, the camera-ready deadline for all papers is March 13, 2022.
+
 ## Topics of Interest
 
 Submissions may be more hands-on than research papers and we therefore explicitly encourage submissions in the early stages of research. Topics of interest include, but are not limited to:
@@ -52,10 +75,22 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Agenda (to be finalized)
 
-**Keynote:** 
-Darrell Long - "Lethe: Learning how to forget"
+| Time        | Content                                                       |
+|------------:|:--------------------------------------------------------------|
+| TBD | Welcome                                                       |
+| TBD | Keynote by **Darrell Long (University of California, Santa Cruz): Lethe: Learning how to forget** |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | Lunch break                                                         |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** |
+| TBD | Farewell |
 
-Dr. Darrell D. E. Long is a Distinguished Professor of Engineering at the University of California, Santa Cruz. He holds the Kumar Malavalli Endowed Chair of Storage Systems Research and is Director, emeritus, of the Storage Systems Research Center and Director of the NSF I/UCRC Center for Storage Systems Research. He has authored highly cited research papers on web caching, distributed file systems, power-aware hard disk management in mobile computing, and low-bandwidth multicast techniques for video on demand, among other topics.
+### Accelerating HPC Applications with Asynchronous I/O (Houjun Tang)
+
+Moving toward exascale computing, the size of data stored and accessed by applications is ever increasing. However, traditional disk-based storage has not seen improvements that keep up with the explosion of data volume or the speed of processors. Asynchronous I/O can reduce the impact of I/O latency as it allows applications to schedule I/O early and to check their status later. I/O is thus overlapped with application computation and communication, effectively hiding some or all of the I/O latency. I will present an asynchronous I/O framework for HDF5 applications that supports all types of I/O operations, manages data dependencies transparently and automatically, provides implicit and explicit modes for application flexibility, and error information retrieval. The evaluation of several benchmarks and application workloads demonstrates its effectiveness in hiding the I/O cost from the application.
 
 ## Organization
 
