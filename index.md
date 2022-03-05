@@ -85,7 +85,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 | TBD | TBD |
 | TBD | TBD |
 | TBD | TBD |
-| TBD | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** |
+| TBD | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** ([Abstract](#accelerating-hpc-applications-with-asynchronous-io-houjun-tang)) |
 | TBD | Farewell |
 
 ### Accelerating HPC Applications with Asynchronous I/O (Houjun Tang)
