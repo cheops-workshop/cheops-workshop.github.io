@@ -22,6 +22,8 @@ In order to guarantee the quality of the submissions, we have formed a globally 
 
 Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (6 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the [submission rules of EuroSys](https://2022.eurosys.org/calls/call-for-papers/#submission_instructions). Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
+The workshop will take place in a hybrid format, that is, attendance will be possible in-person in Rennes or via video conferencing and a chat. Presentations can also be given either in-person or via pre-recorded videos. In the latter case, the organizers will collect questions during the presentation and perform a live Q&A session with the presenter, who should be available via video conference.
+
 ### Rights Forms
 
 You will find a link to the ACM copyright form on your paper's [HotCRP page](https://cheops22.hotcrp.com/).
