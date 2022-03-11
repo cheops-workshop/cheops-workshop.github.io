@@ -81,18 +81,22 @@ The workshop will take place in a hybrid format, that is, attendance will be pos
 
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
-| TBD | Welcome                                                       |
-| TBD | Keynote by **Darrell Long (University of California, Santa Cruz): Lethe: Learning how to forget** |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | Lunch break                                                         |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** ([Abstract](#accelerating-hpc-applications-with-asynchronous-io-houjun-tang)) |
-| TBD | Farewell |
+| 13:40-13:50 | Welcome                                                       |
+| 13:50-14:40 | Keynote by **Darrell Long (University of California, Santa Cruz): Lethe: Learning how to forget** ([Abstract](#lethe-learning-how-to-forget-darrell-long)) |
+| 14:40-15:00 | Paper 1 |
+| 15:00-15:20 | Paper 2 |
+| 15:20-15:40 | Paper 3 |
+| 15:40-16:00 | Paper 4 |
+| 16:00-16:30 | Coffee break |
+| 16:30-16:50 | Paper 5 |
+| 16:50-17:10 | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** ([Abstract](#accelerating-hpc-applications-with-asynchronous-io-houjun-tang)) |
+| 17:10-17:30 | Invited talk 2 |
+| 17:30-17:50 | Invited talk 3 |
+| 17:50-18:10 | Invited talk 4 |
+| 18:10-18:20 | Discussion |
+| 18:20-18:30 | Farewell |
 
-### Keynote - Lethe: Learning how to forget (Darrell Long)
+### Lethe: Learning how to forget (Darrell Long)
 
 Current data privacy regulations empower people to request that data be deleted without undue delay. Existing storage systems are poorly suited to handle secure deletes and leave traces of deleted data for indeterminate periods. Current approaches to secure deletion, including multiple overwrites and encryption, are also unsatisfactory. Flash media makes the former especially difficult. SSDs typically allocate new blocks for data, providing logical overwrite but not overwriting physical flash pages. In-place overwrites on flash are costly and negatively impact endurance.
 
