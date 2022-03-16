@@ -83,12 +83,12 @@ The workshop will take place in a hybrid format, that is, attendance will be pos
 |------------:|:--------------------------------------------------------------|
 | 13:40-13:50 | Welcome                                                       |
 | 13:50-14:40 | Keynote by **Darrell Long (University of California, Santa Cruz): Lethe: Learning how to forget** ([Abstract](#lethe-learning-how-to-forget-darrell-long)) |
-| 14:40-15:00 | **Analysis and Workload Characterization of the CERN EOS Storage System** by Devashish R. Purandare (UC Santa Cruz), Daniel Bittman (UC Santa Cruz), Ethan L. Miller (UC Santa Cruz) |
+| 14:40-15:00 | **SLRL: A Simple Least Remaining Lifetime File Eviction policy for HPC multi-tier storage systems** by Louis-Marie Nicolas (ENSTA Bretagne), Luis Thomas (ENSTA Bretagne), Yassine Hadjadj-Aoul (Univ. Rennes), Jalil Boukhobza (ENSTA Bretagne) |
 | 15:00-15:20 | **Data-Aware Compression for HPC using Machine Learning** by Julius Plehn (Universität Hamburg), Anna Fuchs (Universität Hamburg), Michael Kuhn (Otto von Guericke University Magdeburg), Jakob Lüttgau (University of Tennessee Knoxville), Thomas Ludwig (Deutsches Klimarechenzentrum GmbH) |
 | 15:20-15:40 | **TONE: Cutting Tail-Latency in Learned Indexes** by Yong Zhang (McGill University), Xinran Xiong (McGill University), Oana Balmau (McGill University) |
 | 15:40-16:00 | **Understanding the Performance of Erasure Codes in Hadoop Distributed File System** by Jad Darrous (Inria, IMT Atlantique, LS2N), Shadi Ibrahim (Inria, Univ. Rennes, CNRS, IRISA) |
 | 16:00-16:30 | Coffee break |
-| 16:30-16:50 | **SLRL: A Simple Least Remaining Lifetime File Eviction policy for HPC multi-tier storage systems** by Louis-Marie Nicolas (ENSTA Bretagne), Luis Thomas (ENSTA Bretagne), Yassine Hadjadj-Aoul (Univ. Rennes), Jalil Boukhobza (ENSTA Bretagne) |
+| 16:30-16:50 | **Analysis and Workload Characterization of the CERN EOS Storage System** by Devashish R. Purandare (UC Santa Cruz), Daniel Bittman (UC Santa Cruz), Ethan L. Miller (UC Santa Cruz) |
 | 16:50-17:10 | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** ([Abstract](#accelerating-hpc-applications-with-asynchronous-io-houjun-tang)) |
 | 17:10-17:30 | Invited talk by **Tanzima Islam (Texas State University, USA): TBD** |
 | 17:30-17:50 | Invited talk by **Jay Lofstead (Sandia National Laboratories, USA): TBD** |
