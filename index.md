@@ -91,7 +91,7 @@ The workshop will take place in a hybrid format, that is, attendance will be pos
 | 16:30-16:50 | **Analysis and Workload Characterization of the CERN EOS Storage System** by Devashish R. Purandare (UC Santa Cruz), Daniel Bittman (UC Santa Cruz), Ethan L. Miller (UC Santa Cruz) |
 | 16:50-17:10 | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** ([Abstract](#accelerating-hpc-applications-with-asynchronous-io-houjun-tang)) |
 | 17:10-17:30 | Invited talk by **Tanzima Islam (Texas State University, USA): TBD** |
-| 17:30-17:50 | Invited talk by **Jay Lofstead (Sandia National Laboratories, USA): TBD** |
+| 17:30-17:50 | Invited talk by **Jay Lofstead (Sandia National Laboratories, USA): pMEMCPY: Effectively Leveraging Persistent Memory as a Storage Device** ([Abstract](#pmemcpy-effectively-leveraging-persistent-memory-as-a-storage-device-jay-lofstead)) |
 | 17:50-18:10 | Invited talk by **Kaoutar El Maghraoui (IBM Research AI, USA): TBD** |
 | 18:10-18:20 | Discussion |
 | 18:20-18:30 | Farewell |
@@ -105,6 +105,10 @@ Encryption is an alternative to provide secure deletion. Data is securely delete
 ### Accelerating HPC Applications with Asynchronous I/O (Houjun Tang)
 
 Moving toward exascale computing, the size of data stored and accessed by applications is ever increasing. However, traditional disk-based storage has not seen improvements that keep up with the explosion of data volume or the speed of processors. Asynchronous I/O can reduce the impact of I/O latency as it allows applications to schedule I/O early and to check their status later. I/O is thus overlapped with application computation and communication, effectively hiding some or all of the I/O latency. I will present an asynchronous I/O framework for HDF5 applications that supports all types of I/O operations, manages data dependencies transparently and automatically, provides implicit and explicit modes for application flexibility, and error information retrieval. The evaluation of several benchmarks and application workloads demonstrates its effectiveness in hiding the I/O cost from the application.
+
+### pMEMCPY: Effectively Leveraging Persistent Memory as a Storage Device (Jay Lofstead)
+
+Persistent memory devices offer a dual use technology that can either extend DRAM capacity by offering lower cost load/store access or as persistent storage devices accessible via the memory bus. As NVMe devices have proven, attaining promised performance for persistent memory devices for storage purposes requires special care. Out of the box library and solutions lack proper tuning leaving at least 50% of the potential performance behind. This talk explores some of the special potential for PMEM devices and shows how to effectively use them for high performance storage.
 
 ## Organization
 
