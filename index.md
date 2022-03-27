@@ -90,9 +90,9 @@ The workshop will take place in a hybrid format, that is, attendance will be pos
 | 16:00-16:30 | Coffee break |
 | 16:30-16:50 | **Analysis and Workload Characterization of the CERN EOS Storage System** by Devashish R. Purandare (UC Santa Cruz), Daniel Bittman (UC Santa Cruz), Ethan L. Miller (UC Santa Cruz) |
 | 16:50-17:10 | Invited Talk by **Houjun Tang (Berkeley Lab, USA): Accelerating HPC Applications with Asynchronous I/O** ([Abstract](#accelerating-hpc-applications-with-asynchronous-io-houjun-tang)) |
-| 17:10-17:30 | Invited talk by **Tanzima Islam (Texas State University, USA): TBD** |
+| 17:10-17:30 | Invited talk by **Tanzima Islam (Texas State University, USA): Scalability challenges and opportunities for I/O bound applications** ([Abstract](#scalability-challenges-and-opportunities-for-io-bound-applications-tanzima-islam)) |
 | 17:30-17:50 | Invited talk by **Jay Lofstead (Sandia National Laboratories, USA): pMEMCPY: Effectively Leveraging Persistent Memory as a Storage Device** ([Abstract](#pmemcpy-effectively-leveraging-persistent-memory-as-a-storage-device-jay-lofstead)) |
-| 17:50-18:10 | Invited talk by **Kaoutar El Maghraoui (IBM Research AI, USA): TBD** |
+| 17:50-18:10 | Invited talk by **Kaoutar El Maghraoui (IBM Research AI, USA): AI Hardware Accelerators and Composable Infrastructure** ([Abstract](#ai-hardware-accelerators-and-composable-infrastructure-kaoutar-el-maghraoui)) |
 | 18:10-18:20 | Discussion |
 | 18:20-18:30 | Farewell |
 
@@ -106,9 +106,17 @@ Encryption is an alternative to provide secure deletion. Data is securely delete
 
 Moving toward exascale computing, the size of data stored and accessed by applications is ever increasing. However, traditional disk-based storage has not seen improvements that keep up with the explosion of data volume or the speed of processors. Asynchronous I/O can reduce the impact of I/O latency as it allows applications to schedule I/O early and to check their status later. I/O is thus overlapped with application computation and communication, effectively hiding some or all of the I/O latency. I will present an asynchronous I/O framework for HDF5 applications that supports all types of I/O operations, manages data dependencies transparently and automatically, provides implicit and explicit modes for application flexibility, and error information retrieval. The evaluation of several benchmarks and application workloads demonstrates its effectiveness in hiding the I/O cost from the application.
 
+### Scalability challenges and opportunities for I/O bound applications (Tanzima Islam)
+
+Scaling a scientific application involves scaling the computation, communication, and the I/O phases of that application. My research identifies inefficiencies and bottlenecks for both the compute and I/O phases of applications at scale, and designs scalable end-to-end systems. Specifically, I am interested about learning the challenges faced by scientific applications that generate and analyze large volume of data. This talk will present a novel data aggregation and compression technique developed for scaling checkpointing —an I/O bound operation—on HPC systems. A similar approach can be leveraged to reduce data movement through network for scaling scientific applications. 
+
 ### pMEMCPY: Effectively Leveraging Persistent Memory as a Storage Device (Jay Lofstead)
 
 Persistent memory devices offer a dual use technology that can either extend DRAM capacity by offering lower cost load/store access or as persistent storage devices accessible via the memory bus. As NVMe devices have proven, attaining promised performance for persistent memory devices for storage purposes requires special care. Out of the box library and solutions lack proper tuning leaving at least 50% of the potential performance behind. This talk explores some of the special potential for PMEM devices and shows how to effectively use them for high performance storage.
+
+### AI Hardware Accelerators and Composable Infrastructure (Kaoutar El Maghraoui)
+
+AI and especially deep learning have achieved incredible performances in numerous fields including Computer Vision, Speech Recognition, Natural Language Processing etc. However, with this huge success, comes the increased size and complexity of AI models which both translate into high computational and increased carbon footprint. To address these challenges, there is Cambrian explosion of innovative AI hardware-accelerator architectures optimized for deep learning and machine learning across cloud and edge platforms. Purpose-built hardware will shift the traditional balances between cloud and edge, structured and unstructured data, and training and inference. This talk uncovers the evolving landscape of specialized AI hardware accelerators. It also highlights IBM Research suite of techniques towards the design & build of optimized deep learning hardware as part of IBM’s AI hardware Center initiative. We are making further strides in AI hardware-software co-design using approximate computing principals and Analog non-Von-Neumann approaches to unlock exponential gains of AI computations making AI faster, more efficient, and sustainable. This talk introduces also our composable infrastructure and how we are using it to evaluate various trade-offs among accelerators, networks, storage early in the design cycle, thus avoiding costly errors that can lead to bottlenecks and hinder key applications’ performance.
 
 ## Organization
 
