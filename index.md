@@ -78,6 +78,7 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 ## Agenda (to be finalized)
 
 The workshop will take place in a hybrid format, that is, attendance will be possible in-person in Rennes or via video conferencing and a chat.
+The proceedings are available in the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3503646).
 
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
