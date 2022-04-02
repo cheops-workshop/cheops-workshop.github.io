@@ -75,10 +75,11 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 - Related experiences from users: what worked, what didn't?
   - Feedback and empirical evaluation of storage systems
 
-## Agenda (to be finalized)
+## Agenda
 
 The workshop will take place in a hybrid format, that is, attendance will be possible in-person in Rennes or via video conferencing and a chat.
 The proceedings are available in the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3503646).
+Videos can be found in the workshop's [YouTube playlist](https://www.youtube.com/playlist?list=PLgxcxm73o9bswBkRq4XNUNHFvnDqgk0Af).
 
 | Time        | Content                                                       |
 |------------:|:--------------------------------------------------------------|
@@ -109,7 +110,7 @@ Moving toward exascale computing, the size of data stored and accessed by applic
 
 ### Scalability challenges and opportunities for I/O bound applications (Tanzima Islam)
 
-Scaling a scientific application involves scaling the computation, communication, and the I/O phases of that application. My research identifies inefficiencies and bottlenecks for both the compute and I/O phases of applications at scale, and designs scalable end-to-end systems. Specifically, I am interested about learning the challenges faced by scientific applications that generate and analyze large volume of data. This talk will present a novel data aggregation and compression technique developed for scaling checkpointing —an I/O bound operation—on HPC systems. A similar approach can be leveraged to reduce data movement through network for scaling scientific applications. 
+Scaling a scientific application involves scaling the computation, communication, and the I/O phases of that application. My research identifies inefficiencies and bottlenecks for both the compute and I/O phases of applications at scale, and designs scalable end-to-end systems. Specifically, I am interested about learning the challenges faced by scientific applications that generate and analyze large volume of data. This talk will present a novel data aggregation and compression technique developed for scaling checkpointing —an I/O bound operation—on HPC systems. A similar approach can be leveraged to reduce data movement through network for scaling scientific applications.
 
 ### pMEMCPY: Effectively Leveraging Persistent Memory as a Storage Device (Jay Lofstead)
 
