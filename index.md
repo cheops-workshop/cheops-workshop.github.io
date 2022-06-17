@@ -4,8 +4,6 @@ title: CHEOPS Workshop at EuroSys 2022
 
 # Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS)
 
-**Please see below for the [agenda](#agenda)! It includes links to the proceedings and remote presentations, as well as information about joining our Slack channel.**
-
 The second workshop on “Challenges and Opportunities of Efficient and Performant Storage Systems” (CHEOPS) is aimed at researchers, developers of scientific applications, engineers and everyone interested in the evolution of storage systems. As the developments of computing power, storage and network technologies continue to diverge, the bandwidth performance gap between them widens. This trend, combined with the ever growing data volumes and data-driven computing such as machine learning, results in I/O and storage limitations, impacting the scalability and efficiency of current and future computing systems. Some of these challenges are quantitative, such as scale to match exascale system requirements, or latency reduction of the software stack  to efficiently integrate new generations of hardware like storage class memory (SCM). Some other issues are more subtle and arise with the increased complexity of the storage solutions, like new smarter and more potent data management tools, monitoring systems or interoperability between I/O components or data formats.
 
 The main objective of this workshop is to present state-of-the-art research, innovative ideas and experiences that focus on the design and implementation of storage systems in both academic and industrial worlds.
@@ -81,8 +79,9 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 The workshop will take place in a hybrid format, that is, attendance will be possible in-person in Rennes or via video conferencing and a chat.
 The proceedings are available in the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3503646).
-Videos of remote presentations can be found in the workshop's [YouTube playlist](https://www.youtube.com/playlist?list=PLgxcxm73o9bswBkRq4XNUNHFvnDqgk0Af).
+Three selected papers were also published in [ACM SIGOPS Operating Systems Review (Volume 56, Issue 1)](https://dl.acm.org/toc/sigops/2022/56/1).
 
+Videos of remote presentations can be found in the workshop's [YouTube playlist](https://www.youtube.com/playlist?list=PLgxcxm73o9bswBkRq4XNUNHFvnDqgk0Af).
 We will gather questions and remarks of those attending online via [Slack](https://join.slack.com/t/eurosys-conf/shared_invite/zt-15wucfqhd-~ZhovOUh8WTMGp71ZsPhQQ).
 Our channel is called `workshop-cheops`; if you do not see it on the left side, click “add channel“ (the `+` sign), which opens the channel browser, and type in the channel name.
 
