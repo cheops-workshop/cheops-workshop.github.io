@@ -76,7 +76,7 @@ Only original and novel work not currently under review in other venues will be 
 ### Program Chairs
 
 - Shadi Ibrahim - Inria, France
-- Suren Byna - Lawrence Berkeley National Lab, USA
+- Suren Byna - The Ohio State University, USA
 
 ## Program Committee
 
