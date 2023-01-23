@@ -85,7 +85,7 @@ Only original and novel work not currently under review in other venues will be 
 <!--
 - Suren Byna - Lawrence Berkeley National Lab, USA
 - Yuan-Hao Chang - Academia Sinica, Taiwan
-- Andreas Dilger - Whamcloud, USA
+- Andreas Dilger - Whamcloud, Canada
 - Anna Fuchs - Universität Hamburg, Germany
 - Shadi Ibrahim - INRIA, France
 - Tanzima Islam - Texas State University, USA
