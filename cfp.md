@@ -47,14 +47,14 @@ Submissions may be more hands-on than research papers and we therefore explicitl
 
 ## Submission Guidelines
 
-In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use HotCRP to manage the submissions (<https://cheops23.hotcrp.com/>). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
+In order to guarantee the quality of the submissions, we have formed a globally distributed, diverse program committee. All submissions will be reviewed by the program committee. We will use HotCRP to manage the submissions (<https://cheops24.hotcrp.com/>). The reviewing process will be double blind with at least 3 reviews for each submission. An online discussion will determine which papers to accept.
 
 Only original and novel work not currently under review in other venues will be considered for publication. Submissions can either be full papers (6 pages) or short papers (4 pages). The page count includes the title, text, figures, appendices but excludes the references. They must be submitted electronically as PDF files formatted according to the submission rules of EuroSys. Accepted submissions will have to comply with the EuroSys proceedings format. One author of each accepted paper is required to register for the workshop and present the paper. Extended versions of selected papers will be considered for publication in the ACM SIGOPS Operating Systems Review journal.
 
 ## Important Dates
 
-- Abstract Submission: February 1, 2024 (Anywhere on Earth)
-- Paper Submission: February 8, 2024 (Anywhere on Earth)
+- Abstract Submission: January 19, 2024 (Anywhere on Earth)
+- Paper Submission: January 26, 2024 (Anywhere on Earth)
 - Notification to Authors: March 1, 2023
 - Camera-Ready Deadline: March 11, 2023
 - Workshop Date: April 22, 2023
@@ -67,7 +67,7 @@ Only original and novel work not currently under review in other venues will be 
 - Jalil Boukhobza - National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
 - Konstantinos Chasapis - DDN, France
 - [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
-- Shadi Ibrahim - Inria, France
+- [Shadi Ibrahim](http://people.rennes.inria.fr/Shadi.Ibrahim/index.html) - Inria, France
 - [Michael Kuhn](https://parcio.ovgu.de/People/Michael+Kuhn.html) - Otto von Guericke University Magdeburg (OVGU), Germany
 
 ### General Chair
@@ -77,7 +77,7 @@ Only original and novel work not currently under review in other venues will be 
 ### Program Chairs
 
 - Suren Byna - The Ohio State University, USA
-- 
+- Amelie Chi Zhou - Hong Kong Baptist University, Hong Kong 
 
 ## Program Committee
 
