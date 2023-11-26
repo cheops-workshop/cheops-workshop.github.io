@@ -66,7 +66,7 @@ Only original and novel work not currently under review in other venues will be 
 - Jean-Thomas Acquaviva - DDN, France
 - Jalil Boukhobza - National Institute of Advanced Technologies of Brittany (ENSTA Bretagne), France
 - Konstantinos Chasapis - DDN, France
-- [Kira Duwe](https://parcio.ovgu.de/People/Kira+Duwe.html) - Otto von Guericke University Magdeburg (OVGU), Germany
+- Kira Duwe - École polytechnique fédérale de Lausanne (EPFL), Switzerland
 - [Shadi Ibrahim](http://people.rennes.inria.fr/Shadi.Ibrahim/index.html) - Inria, France
 - [Michael Kuhn](https://parcio.ovgu.de/People/Michael+Kuhn.html) - Otto von Guericke University Magdeburg (OVGU), Germany
 
