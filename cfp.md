@@ -55,9 +55,9 @@ Only original and novel work not currently under review in other venues will be 
 
 - Abstract Submission: January 19, 2024 (Anywhere on Earth)
 - Paper Submission: January 26, 2024 (Anywhere on Earth)
-- Notification to Authors: March 1, 2023
-- Camera-Ready Deadline: March 11, 2023
-- Workshop Date: April 22, 2023
+- Notification to Authors: March 1, 2024
+- Camera-Ready Deadline: March 11, 2024
+- Workshop Date: April 22, 2024
 
 ## Organization
 
